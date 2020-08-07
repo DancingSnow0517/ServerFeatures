@@ -341,3 +341,12 @@ TNT在同一地点和液体中爆炸时，会产生较少的卡顿
 
 - 类型: `boolean`
 - 数值: `true`
+# MCDReforge Plugins
+## Here
+使用!!here来向全服告诉你的位置并高亮
+## Beep
+使用 @ 或 @@ 来提醒别人
+## Wiki
+使用!!wiki <内容>来在Wiki查询
+## Calculator
+使用 == <exp> 来计算表达式内容
