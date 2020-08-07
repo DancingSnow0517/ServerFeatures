@@ -350,3 +350,19 @@ TNT在同一地点和液体中爆炸时，会产生较少的卡顿
 使用!!wiki <内容>来在Wiki查询
 ## Calculator
 使用 == <exp> 来计算表达式内容
+
+## daycount
+
+使用!!day获取开服天数
+
+## joinMOTD
+
+开服发送欢迎和显示开服时间
+
+## QuickBackupM
+
+!!qb 备份
+
+## StatsHelper
+
+计分板助手
